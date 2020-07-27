@@ -1,5 +1,5 @@
 {
-    "name": "cornford/backup",
+    "name": "ldavidsp/backup",
     "description": "An easy way backup and restore databases in Laravel.",
     "keywords": ["laravel", "database", "backup", "restore", "dump"],
     "license": "MIT",
@@ -11,10 +11,10 @@
     ],
     "require": {
         "php": ">=7.2",
-        "illuminate/support": "^6.0 || ^7.0",
-        "illuminate/console": "^6.0 || ^7.0",
-        "illuminate/config": "^6.0 || ^7.0",
-        "symfony/process": "^4.3"
+        "illuminate/support": "^7.0",
+        "illuminate/console": "^7.0",
+        "illuminate/config": "^7.0",
+        "symfony/process": "^5.1"
     },
     "require-dev": {
         "phpspec/phpspec": "^6.0",
